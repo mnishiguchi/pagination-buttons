@@ -1,0 +1,11 @@
+ul.pagination-buttons {
+  list-style: none;
+}
+
+li.pagination-item {
+  display: inline;
+}
+
+ul.pagination-buttons button {
+  min-width: 50px;
+}
